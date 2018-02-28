@@ -20,5 +20,5 @@ var networkStat = [
         ["pinkstar.blockhunter.xyz", "pinkstar.blockhunter.xyz:1321"],
         ["pnks.hpool.net", "http://pnks.hpool.net:8216"],
         ["pnks.mybot.wtf", "http://pnks.mybot.wtf:8117"],
-        ["pool.ahka.net/pinkstarcoin", "http://pnks.pool.ahka.net:8114"]
+        ["nks.npool.pw/pnks", "http://nks.npool.pw:8114"]
 ];
